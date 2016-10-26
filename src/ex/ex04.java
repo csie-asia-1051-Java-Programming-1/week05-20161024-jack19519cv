@@ -14,6 +14,7 @@ int n = scn.nextInt();
 	for(int i = 1 ; i<= n ; i++){
 	      for(int c = 1 ; c <=m ; c++){
 	         System.out.print("*");
+	         
 	      }
 	      
 	      

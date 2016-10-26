@@ -16,6 +16,7 @@ public class ex03 {
         for(int i = 1;i<=n;i++ ){
         	 b = Math.pow(a,i);
         }
+        
         System.out.print(b);
 	}
 

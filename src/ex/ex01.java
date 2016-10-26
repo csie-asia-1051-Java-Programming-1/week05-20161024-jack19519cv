@@ -16,6 +16,7 @@ public class ex01 {
       for(int i=1;i<=n;i++){
     	  a*=i;
     	
+    	  
       }System.out.println(a);
 	}
 
