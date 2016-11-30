@@ -1,6 +1,6 @@
 package hw;
 import java.util.Scanner;
-//105021059 ¤ý«T÷g
+// 105021059 ¤ý«T÷g
 public class hw05 {
 
 	public static void main(String[] args) {
